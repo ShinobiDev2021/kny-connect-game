@@ -4,18 +4,18 @@
       "admob",
       "unity"
     ],
-    "ad_time": 30,
+    "ad_time": 0,
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-8118635853638933~5154560469",
-        "banner_id": "ca-app-pub-8118635853638933/9897597161",
-        "popup_id": "ca-app-pub-8118635853638933/3869043732",
-        "reward_id": "ca-app-pub-8118635853638933/4990553710"
+        "app_id": "ca-app-pub-8118635853638933~8262605345",
+        "banner_id": "ca-app-pub-8118635853638933/5636442006",
+        "popup_id": "ca-app-pub-8118635853638933/3010278667",
+        "reward_id": "ca-app-pub-8118635853638933/1533545460"
       },
        {
         "name": "unity",
-        "app_id": "4023015",
+        "app_id": "4108455",
         "banner_id": "banner",
         "popup_id": "video",
         "reward_id": "video"
